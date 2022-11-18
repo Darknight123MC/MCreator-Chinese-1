@@ -1,5 +1,5 @@
-Select your GUI here to enable inventory and GUI binding on this item.
+在这里选择绑定该物品的GUI。
 
-Set to Empty to disable inventory (you want this in most cases).
+设置为 "null" 可以禁用GUI。
 
-Enabling inventory will make this item unstackable.
+启用GUI将使这个物品无法堆叠。
